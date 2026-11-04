@@ -1,0 +1,778 @@
+{
+  "project_id": "4941161f-949f-4366-941c-d34bfea449d3",
+  "title": "Matter",
+  "topic": "",
+  "learning_objective": "",
+  "subject": "Science",
+  "level": "P3, P4",
+  "characters": [
+    "bouncy",
+    "merry",
+    "pokpok"
+  ],
+  "created_at": "2026-06-25T07:21:50.015Z",
+  "updated_at": "2026-10-06T01:36:19.248Z",
+  "pages": [],
+  "scripts": [
+    {
+      "id": "96f52456-8883-4491-9b92-8fc98c845631",
+      "topic": "Umbrella",
+      "objectives": "Students will learn that umbrellas are made from waterproof material. They will understand why waterproof materials do not let water through.",
+      "facts": [
+        "The umbrella cloth is waterproof, so rain rolls off instead of soaking in.",
+        "If the cloth could absorb water, you would still get wet underneath.",
+        "In Singapore's sudden rain, an umbrella keeps you dry on your walk to school."
+      ],
+      "selected": true
+    },
+    {
+      "id": "6db31621-766d-496e-8ed0-38e584886ac3",
+      "topic": "Swimming Kickboard",
+      "objectives": "Students will learn that some materials can float on water. They will understand how floating materials help us in water.",
+      "facts": [
+        "The kickboard is made of foam, which floats on the water's surface.",
+        "Floating materials stay near the top and do not sink down.",
+        "At Singapore swimming pools, kids hold a kickboard to stay afloat while learning to swim."
+      ],
+      "selected": true
+    },
+    {
+      "id": "283e9110-b972-46a9-84ed-748cdfd776a3",
+      "topic": "MRT Window",
+      "objectives": "Students will learn that glass is transparent. They will understand how transparent materials let us see through them.",
+      "facts": [
+        "The window is made of glass, which is transparent so light passes through.",
+        "Transparent materials let us see what is on the other side clearly.",
+        "On the MRT, the clear windows let you watch HDB blocks zoom past on your ride."
+      ],
+      "selected": true
+    },
+    {
+      "id": "c436b287-1023-41b3-b8f4-e0754c3acb73",
+      "topic": "Rubber Band",
+      "objectives": "Students will learn that rubber is flexible. They will understand that flexible materials can bend or stretch without breaking.",
+      "facts": [
+        "A rubber band is flexible and can stretch far without snapping.",
+        "Flexible materials can bend back into shape after you let go.",
+        "At the wet market in Singapore, sellers use rubber bands to tie up bags of food."
+      ],
+      "selected": true
+    },
+    {
+      "id": "74ea53a5-cdf0-4c20-9cb3-2da815817363",
+      "topic": "HDB Staircase Railing",
+      "objectives": "Students will learn that metal is strong. They will understand that strong materials can hold heavy loads without breaking.",
+      "facts": [
+        "The railing is made of metal, which is strong and does not break easily.",
+        "Strong materials can hold weight when many people lean or grab them.",
+        "In Singapore HDB blocks, sturdy metal railings keep everyone safe on the stairs."
+      ],
+      "selected": true
+    },
+    {
+      "id": "11dd8fa5-4fb8-43c9-b41b-edb9e6ae852f",
+      "topic": "Raincoat",
+      "objectives": "Students will learn that raincoats use waterproof plastic. They will understand why waterproof clothing keeps us dry.",
+      "facts": [
+        "A raincoat is made of plastic that water cannot pass through.",
+        "Because it does not absorb water, your clothes stay dry inside.",
+        "Delivery riders in Singapore wear raincoats to keep dry during heavy showers."
+      ],
+      "selected": true
+    },
+    {
+      "id": "95bdca42-d76e-479e-9a1a-31d8d039f1c1",
+      "topic": "Plastic Ruler",
+      "objectives": "Students will learn that a ruler can be both flexible and transparent. They will understand that one object can have more than one property.",
+      "facts": [
+        "A plastic ruler can bend a little, showing it is flexible.",
+        "Many rulers are clear, so you can see the lines you are measuring.",
+        "In Singapore classrooms, a see-through ruler helps you draw neat lines over your work."
+      ],
+      "selected": true
+    },
+    {
+      "id": "f41e1fe2-3d46-4a5d-894c-a9cffb4446e8",
+      "topic": "Rubber Slippers",
+      "objectives": "Students will learn that slippers are flexible and waterproof. They will understand how these properties make them useful.",
+      "facts": [
+        "Slippers are made of rubber that bends easily as you walk.",
+        "The rubber is waterproof, so it does not soak up puddles.",
+        "Singaporeans love wearing slippers to the void deck or to buy food nearby."
+      ],
+      "selected": true
+    },
+    {
+      "id": "604c07ad-4546-40af-ac71-3e348b3f8aae",
+      "topic": "Kitchen Sponge",
+      "objectives": "Students will learn that some materials absorb water and are not waterproof. They will understand the difference between absorbing and repelling water.",
+      "facts": [
+        "A sponge soaks up water, so it is not waterproof.",
+        "Materials that absorb water get heavy and wet when soaked.",
+        "At home in Singapore, a sponge helps you wipe up spilled drinks quickly."
+      ],
+      "selected": true
+    },
+    {
+      "id": "07251e34-48df-4d94-b978-1231607d2076",
+      "topic": "Coin",
+      "objectives": "Students will learn that some materials sink in water. They will understand that heavy, dense objects do not float.",
+      "facts": [
+        "A metal coin sinks straight to the bottom of the water.",
+        "Sinking objects do not stay on the surface like floating ones do.",
+        "If you drop a Singapore coin into a fountain, it sinks and rests at the bottom."
+      ],
+      "selected": true
+    }
+  ],
+  "panels": {
+    "96f52456-8883-4491-9b92-8fc98c845631": {
+      "panel1_question": "What keeps you dry in the rain?",
+      "panel1_photo_prompt": "A photo of a child holding a colourful umbrella while walking on a wet pavement in Singapore, HDB flats in the background, rain falling, puddles on the ground, natural overcast lighting",
+      "panel2_reveal": "This is an...",
+      "panel2_title": "UMBRELLA!",
+      "panel2_object_prompt": "Create the UMBRELLA in a single isolated object cutout in a clean educational comic style.\n\nAdd a thick clean white outline around the entire object, like a sticker border, on a flat vivid magenta (#FF00FF) background.\n\nImportant requirements:\n- Flat solid magenta (#FF00FF) background — no gradients\n- No text\n- No labels\n- No characters\n- No extra objects\n- No scene or environment\n- Object only\n- Centered composition\n- Full object visible, not cut off\n- Clean white sticker outline\n- Educational comic style\n- High-resolution, sharp edges\n- Suitable for placing inside a comic panel",
+      "panel3_trigger": "Did you know why rain rolls right off an umbrella's cloth?",
+      "panel4_fact": "The umbrella cloth is waterproof, so rain rolls off instead of soaking in.",
+      "panel4_speech": "Splish splash, the rain just slides right off me!",
+      "panel4_scene_prompt": "A macro photo of water droplets beading and rolling off the surface of a tight waterproof umbrella fabric, droplets catching the light, no water soaking through",
+      "panel5_fact": "The umbrella uses tightly woven synthetic fibers with special water-repelling chemical coatings",
+      "panel5_speech": "If umbrella's fabric were like a sponge, you'd be soaking wet too!",
+      "panel5_scene_prompt": "A photo comparing a wet absorbent cloth towel soaked with water next to dry waterproof umbrella fabric, water droplets resting on top of the umbrella material, natural lighting",
+      "panel6_fact": "In Singapore's sudden rain, an umbrella keeps you dry on your walk to school.",
+      "panel6_speech": "Sudden downpour? Don't worry, I've got you covered!",
+      "panel6_scene_prompt": "A photo of a primary school student in uniform walking to school holding an umbrella during a sudden heavy Singapore rain, staying dry, wet road and trees around, morning light",
+      "panel7_closing": "Now you know — always pack an umbrella in your bag, because Singapore rain loves to surprise us!"
+    },
+    "c436b287-1023-41b3-b8f4-e0754c3acb73": {
+      "panel1_question": "Have you seen this stretchy little loop?",
+      "panel1_photo_prompt": "A close-up photo of colourful rubber bands scattered on a wooden table in a Singapore home kitchen, red and brown loops, natural daylight, sharp detail",
+      "panel2_reveal": "This is a...",
+      "panel2_title": "RUBBER BAND!",
+      "panel2_object_prompt": "Create the RUBBER BAND in a single isolated object cutout in a clean educational comic style.\n\nAdd a thick clean white outline around the entire object, like a sticker border, on a flat vivid magenta (#FF00FF) background.\n\nImportant requirements:\n- Flat solid magenta (#FF00FF) background — no gradients\n- No text\n- No labels\n- No characters\n- No extra objects\n- No scene or environment\n- Object only\n- Centered composition\n- Full object visible, not cut off\n- Clean white sticker outline\n- Educational comic style\n- High-resolution, sharp edges\n- Suitable for placing inside a comic panel",
+      "panel3_trigger": "Did you know a rubber band can stretch super far without breaking?",
+      "panel4_fact": "A rubber band is flexible and can stretch far without snapping.",
+      "panel4_speech": "Watch me stretch — I can go loooong and still stay strong!",
+      "panel4_scene_prompt": "A close-up photo of two hands pulling a brown rubber band wide apart, the band stretched thin and long between fingers, bright indoor lighting, realistic detail",
+      "panel5_fact": "Flexible materials can bend back into shape after you let go.",
+      "panel5_speech": "Let me go and boing — I bounce right back to my round shape!",
+      "panel5_scene_prompt": "A sequence-style close-up photo of a rubber band springing back into its round loop shape on a table after being released, motion captured, natural lighting",
+      "panel6_fact": "At the wet market in Singapore, sellers use rubber bands to tie up bags of food.",
+      "panel6_speech": "At the wet market, I keep your fishball bags tied up tight!",
+      "panel6_scene_prompt": "A photo of a Singapore wet market stall where a seller ties a plastic bag of vegetables with a red rubber band, fresh produce in background, busy market lighting",
+      "panel7_closing": "Now you know — rubber bands are flexible helpers! Look out for them at home and the wet market."
+    }
+  },
+  "createdComics": {
+    "96f52456-8883-4491-9b92-8fc98c845631": {
+      "topicId": "96f52456-8883-4491-9b92-8fc98c845631",
+      "images": {
+        "panel1": "/generated/4941161f-949f-4366-941c-d34bfea449d3/96f52456-8883-4491-9b92-8fc98c845631/panel1.png",
+        "panel2_object": "/generated/4941161f-949f-4366-941c-d34bfea449d3/96f52456-8883-4491-9b92-8fc98c845631/panel2_object_masked.png?t=1782372312667",
+        "panel4_scene": "/generated/4941161f-949f-4366-941c-d34bfea449d3/96f52456-8883-4491-9b92-8fc98c845631/panel4_scene.png",
+        "panel5_scene": "/generated/4941161f-949f-4366-941c-d34bfea449d3/96f52456-8883-4491-9b92-8fc98c845631/panel5_scene.png",
+        "panel6_scene": "/generated/4941161f-949f-4366-941c-d34bfea449d3/96f52456-8883-4491-9b92-8fc98c845631/panel6_scene.png"
+      },
+      "createdAt": "2026-06-25T07:25:12.681Z",
+      "layouts": {
+        "0": {
+          "bgImage": {
+            "x": 78.45833333333334,
+            "y": 59.791666666666664,
+            "scale": 188,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 32.083333333333336,
+            "y": 26.375,
+            "scale": 65,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 30.458333333333332,
+            "y": 24.166666666666664,
+            "width": 47,
+            "fontSize": 18,
+            "rotation": 0
+          },
+          "character": {
+            "x": 19.708333333333332,
+            "y": 74.33333333333333,
+            "scale": 90,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_wow"
+          },
+          "sceneCircle": false
+        },
+        "1": {
+          "objectImage": {
+            "x": 49,
+            "y": 47,
+            "scale": 75,
+            "blur": 0,
+            "rotation": 14,
+            "flipX": false
+          },
+          "p2Reveal": {
+            "x": 50,
+            "y": 9,
+            "width": 88,
+            "fontSize": 24,
+            "rotation": 0
+          },
+          "p2Title": {
+            "x": 49.083333333333336,
+            "y": 79.875,
+            "width": 88,
+            "fontSize": 59,
+            "rotation": 0
+          },
+          "character": {
+            "x": 12,
+            "y": 89,
+            "scale": 56,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_excited"
+          },
+          "sceneCircle": false
+        },
+        "2": {
+          "bgImage": {
+            "x": 49,
+            "y": 56,
+            "scale": 120,
+            "blur": 4.5,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 49,
+            "y": 27,
+            "scale": 86,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 49.83333333333333,
+            "y": 27.708333333333332,
+            "width": 62,
+            "fontSize": 27,
+            "rotation": 0
+          },
+          "character": {
+            "x": 47.125,
+            "y": 77.75,
+            "scale": 73,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_thinking"
+          },
+          "sceneCircle": false
+        },
+        "3": {
+          "sceneImage": {
+            "x": 50,
+            "y": 47,
+            "scale": 97,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "character": {
+            "x": -8,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_pointing"
+          },
+          "bubble": {
+            "x": 68,
+            "y": 17,
+            "scale": 64,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 70,
+            "y": 14,
+            "width": 38,
+            "fontSize": 17,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 50,
+            "y": 88,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 49,
+            "y": 87,
+            "width": 69,
+            "fontSize": 19,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "4": {
+          "sceneImage": {
+            "x": 39.666666666666664,
+            "y": 63.458333333333336,
+            "scale": 113,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "character": {
+            "x": 13,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_happy"
+          },
+          "bubble": {
+            "x": 53,
+            "y": 15,
+            "scale": 60,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 54,
+            "y": 12.999999999999998,
+            "width": 46,
+            "fontSize": 16,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 51,
+            "y": 87,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 50.041666666666664,
+            "y": 85.95833333333333,
+            "width": 70,
+            "fontSize": 16,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "5": {
+          "sceneImage": {
+            "x": 49.375,
+            "y": 57.25,
+            "scale": 97,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "character": {
+            "x": -8,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_wow"
+          },
+          "bubble": {
+            "x": 39.375,
+            "y": 13.625,
+            "scale": 58,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": true
+          },
+          "bubbleText": {
+            "x": 39.166666666666664,
+            "y": 12.291666666666666,
+            "width": 38,
+            "fontSize": 14,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 50,
+            "y": 84,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 49,
+            "y": 83,
+            "width": 72,
+            "fontSize": 20,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "6": {
+          "bgImage": {
+            "x": 44,
+            "y": 49.791666666666664,
+            "scale": 160,
+            "blur": 8,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 50.83333333333333,
+            "y": 24.916666666666668,
+            "scale": 71,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 49.958333333333336,
+            "y": 22.333333333333336,
+            "width": 47,
+            "fontSize": 15,
+            "rotation": 0
+          },
+          "character": {
+            "x": 54.66666666666667,
+            "y": 73.45833333333333,
+            "scale": 91,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_happy"
+          },
+          "sceneCircle": false
+        }
+      },
+      "exports": [
+        "/generated/4941161f-949f-4366-941c-d34bfea449d3/96f52456-8883-4491-9b92-8fc98c845631/export_1782372403206.png"
+      ]
+    },
+    "c436b287-1023-41b3-b8f4-e0754c3acb73": {
+      "topicId": "c436b287-1023-41b3-b8f4-e0754c3acb73",
+      "images": {
+        "panel1": "/generated/4941161f-949f-4366-941c-d34bfea449d3/c436b287-1023-41b3-b8f4-e0754c3acb73/panel1.png",
+        "panel2_object": "/generated/4941161f-949f-4366-941c-d34bfea449d3/c436b287-1023-41b3-b8f4-e0754c3acb73/panel2_object_masked.png?t=1790043038983",
+        "panel4_scene": "/generated/4941161f-949f-4366-941c-d34bfea449d3/c436b287-1023-41b3-b8f4-e0754c3acb73/panel4_scene.png",
+        "panel5_scene": "/generated/4941161f-949f-4366-941c-d34bfea449d3/c436b287-1023-41b3-b8f4-e0754c3acb73/panel5_scene.png",
+        "panel6_scene": "/generated/4941161f-949f-4366-941c-d34bfea449d3/c436b287-1023-41b3-b8f4-e0754c3acb73/panel6_scene.png"
+      },
+      "createdAt": "2026-09-22T02:10:38.991Z",
+      "layouts": {
+        "0": {
+          "bgImage": {
+            "x": 47,
+            "y": 50,
+            "scale": 121,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 35,
+            "y": 22,
+            "scale": 65,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 34,
+            "y": 20,
+            "width": 47,
+            "fontSize": 18,
+            "rotation": 0
+          },
+          "character": {
+            "x": 22,
+            "y": 76,
+            "scale": 90,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_wow"
+          },
+          "sceneCircle": false
+        },
+        "1": {
+          "objectImage": {
+            "x": 49,
+            "y": 46.166666666666664,
+            "scale": 75,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "p2Reveal": {
+            "x": 50,
+            "y": 9,
+            "width": 88,
+            "fontSize": 24,
+            "rotation": 0
+          },
+          "p2Title": {
+            "x": 52,
+            "y": 73,
+            "width": 88,
+            "fontSize": 48,
+            "rotation": 0
+          },
+          "character": {
+            "x": 12,
+            "y": 89,
+            "scale": 56,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_excited"
+          },
+          "sceneCircle": false
+        },
+        "2": {
+          "bgImage": {
+            "x": 49,
+            "y": 56,
+            "scale": 120,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 49,
+            "y": 27,
+            "scale": 86,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 49,
+            "y": 25,
+            "width": 55,
+            "fontSize": 27,
+            "rotation": 0
+          },
+          "character": {
+            "x": 49,
+            "y": 79,
+            "scale": 90,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_thinking"
+          },
+          "sceneCircle": false
+        },
+        "3": {
+          "sceneImage": {
+            "x": 50,
+            "y": 46.583333333333336,
+            "scale": 97,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "character": {
+            "x": -8,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_pointing"
+          },
+          "bubble": {
+            "x": 57.166666666666664,
+            "y": 20.333333333333332,
+            "scale": 64,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 58.125,
+            "y": 17.125,
+            "width": 38,
+            "fontSize": 17,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 50,
+            "y": 88,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 49,
+            "y": 87,
+            "width": 69,
+            "fontSize": 19,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "4": {
+          "sceneImage": {
+            "x": 43,
+            "y": 67,
+            "scale": 113,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "character": {
+            "x": 12.791666666666677,
+            "y": 59.208333333333336,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_thinking"
+          },
+          "bubble": {
+            "x": 53,
+            "y": 15,
+            "scale": 60,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 54,
+            "y": 13,
+            "width": 38,
+            "fontSize": 16,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 51,
+            "y": 87,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 49,
+            "y": 87,
+            "width": 70,
+            "fontSize": 16,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "5": {
+          "sceneImage": {
+            "x": 49.583333333333336,
+            "y": 34.958333333333336,
+            "scale": 83,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "character": {
+            "x": -8,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_wow"
+          },
+          "bubble": {
+            "x": 45.20833333333333,
+            "y": 17.583333333333332,
+            "scale": 58,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": true
+          },
+          "bubbleText": {
+            "x": 44.583333333333336,
+            "y": 15.416666666666666,
+            "width": 38,
+            "fontSize": 14,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 50,
+            "y": 84,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 49,
+            "y": 83,
+            "width": 72,
+            "fontSize": 20,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "6": {
+          "bgImage": {
+            "x": 42.75,
+            "y": 44.791666666666664,
+            "scale": 160,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 48.958333333333336,
+            "y": 28.666666666666668,
+            "scale": 88,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 51,
+            "y": 24.625,
+            "width": 58,
+            "fontSize": 19,
+            "rotation": 0
+          },
+          "character": {
+            "x": 51.33333333333333,
+            "y": 83.45833333333333,
+            "scale": 75,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_happy"
+          },
+          "sceneCircle": false
+        }
+      },
+      "exports": [
+        "/generated/4941161f-949f-4366-941c-d34bfea449d3/c436b287-1023-41b3-b8f4-e0754c3acb73/export_1790044345978.png"
+      ]
+    }
+  }
+}

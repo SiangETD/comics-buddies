@@ -1,0 +1,758 @@
+{
+  "project_id": "045599a2-763f-4d6b-a067-9f4f51d41733",
+  "title": "Diversity",
+  "topic": "",
+  "learning_objective": "",
+  "subject": "Science",
+  "level": "P3",
+  "characters": [
+    "bouncy",
+    "merry",
+    "pokpok"
+  ],
+  "created_at": "2026-06-22T07:00:27.657Z",
+  "updated_at": "2026-06-25T01:53:52.434Z",
+  "pages": [],
+  "scripts": [
+    {
+      "id": "1ea2cc88-19bc-4064-ae79-4b77ca026169",
+      "topic": "The Merlion Statue",
+      "objectives": "Students will learn to tell living things from non-living things. They will also understand that non-living things do not grow, eat, or reproduce.",
+      "facts": [
+        "The Merlion is a famous statue, but it is a non-living thing.",
+        "Non-living things do not need food, water, or air to survive.",
+        "You can spot the Merlion at Marina Bay spouting water, but it never grows bigger!"
+      ],
+      "selected": true
+    },
+    {
+      "id": "7e4ae694-b2c2-4b60-a345-9acb7bed3e48",
+      "topic": "The Gecko on the Wall",
+      "objectives": "Students will learn that geckos are reptiles. They will also understand a key feature that makes reptiles different from other animals.",
+      "facts": [
+        "A gecko is a reptile that has dry, scaly skin.",
+        "Geckos have sticky toe pads that help them climb walls and ceilings.",
+        "Many homes in Singapore have geckos that come out at night to catch insects near lights."
+      ],
+      "selected": true
+    },
+    {
+      "id": "2fbbda60-7a27-49f5-b62c-5183252f9698",
+      "topic": "The Mushroom",
+      "objectives": "Students will learn that fungi are a separate group from plants. They will also understand that fungi do not make their own food like plants.",
+      "facts": [
+        "A mushroom is a fungus, not a plant or an animal.",
+        "Fungi do not have green leaves and cannot make food from sunlight.",
+        "You can find mushrooms growing on damp soil or logs after the rain in Singapore."
+      ],
+      "selected": true
+    },
+    {
+      "id": "2f0c6b74-8496-4223-82f8-90eced85339e",
+      "topic": "The Garden Snail",
+      "objectives": "Students will learn that living things respond to their surroundings. They will also understand how snails protect themselves.",
+      "facts": [
+        "A snail is a living thing that carries its shell as a home.",
+        "When it senses danger, it pulls its soft body into the shell to stay safe.",
+        "You may spot snails crawling on leaves in HDB gardens after a rainy day."
+      ],
+      "selected": true
+    },
+    {
+      "id": "ed46323d-7e99-43ff-805a-fa82a7af8fdd",
+      "topic": "The Frog at the Pond",
+      "objectives": "Students will learn that frogs are amphibians. They will also understand that amphibians can live both in water and on land.",
+      "facts": [
+        "A frog is an amphibian that can live in water and on land.",
+        "Baby frogs called tadpoles live in water before they grow legs.",
+        "You can hear frogs croaking near ponds at Singapore parks after it rains."
+      ],
+      "selected": true
+    },
+    {
+      "id": "e8fac879-c0c5-45f4-b1c5-a2f39a13ba2e",
+      "topic": "The Fern Plant",
+      "objectives": "Students will learn that ferns are non-flowering plants. They will also understand that not all plants grow flowers.",
+      "facts": [
+        "A fern is a non-flowering plant with feathery leaves called fronds.",
+        "Ferns make new plants using tiny spores instead of seeds or flowers.",
+        "You can see ferns growing on tree trunks and walls in shady Singapore parks."
+      ],
+      "selected": true
+    },
+    {
+      "id": "2cd2bac6-5785-491b-a5f6-2bf67bee3eeb",
+      "topic": "The Smooth-coated Otter",
+      "objectives": "Students will learn that otters are mammals. They will also understand key features of mammals like fur and feeding on milk.",
+      "facts": [
+        "Otters are mammals that breathe air and have fur on their bodies.",
+        "Baby otters drink milk from their mothers when they are young.",
+        "You can spot otter families swimming along Singapore's Kallang River and Marina Bay."
+      ],
+      "selected": true
+    },
+    {
+      "id": "31180822-6880-4bc5-a8b9-5c18fc3cd177",
+      "topic": "The Common Mynah",
+      "objectives": "Students will learn that mynahs are birds. They will also understand features birds share, like feathers and beaks.",
+      "facts": [
+        "Mynahs are birds covered in feathers, with a beak and two legs.",
+        "Birds lay eggs, and many of them can fly to find food.",
+        "Mynahs hop around Singapore hawker centres looking for crumbs."
+      ],
+      "selected": true
+    },
+    {
+      "id": "41b06472-e0c2-4639-a5e4-11534c4d74ce",
+      "topic": "The Butterfly",
+      "objectives": "Students will learn that butterflies are insects. They will also understand that insects have six legs and grow by changing form.",
+      "facts": [
+        "Butterflies are insects with six legs and two pairs of wings.",
+        "They begin life as caterpillars before changing into butterflies.",
+        "You can watch many butterflies at the Changi Airport Butterfly Garden."
+      ],
+      "selected": true
+    },
+    {
+      "id": "5548a46a-42e7-4fb0-ae1d-7256c91fd8fa",
+      "topic": "The Coconut",
+      "objectives": "Students will learn that a coconut is a giant seed. They will also understand how seeds travel to grow in new places.",
+      "facts": [
+        "A coconut is a giant seed that can grow into a new palm tree.",
+        "Its light, floaty husk lets it travel across the sea to new lands.",
+        "Coconut palms grow along Singapore's beaches like Sentosa and East Coast."
+      ],
+      "selected": true
+    },
+    {
+      "id": "bf41a6f1-23e0-40d6-a0cf-1f6079da09c2",
+      "topic": "The Sunflower",
+      "objectives": "Students will learn that sunflowers are flowering plants. They will also understand that plants need sunlight to grow.",
+      "facts": [
+        "A sunflower is a flowering plant that turns to face the bright sun.",
+        "Its seeds can be eaten or planted to grow brand new sunflowers.",
+        "You can grow your own sunflowers in pots at home or in HDB community gardens."
+      ],
+      "selected": true
+    }
+  ],
+  "panels": {
+    "1ea2cc88-19bc-4064-ae79-4b77ca026169": {
+      "panel1_question": "Have you seen this giant lion by the sea?",
+      "panel1_photo_prompt": "A photo of the Merlion statue, spouting water from its mouth into the bay, blue sky and city skyline in the background, natural daylight",
+      "panel2_reveal": "Meet the...",
+      "panel2_title": "MERLION!",
+      "panel2_object_prompt": "white Merlion statue, half lion and half fish",
+      "panel3_trigger": "Is the Merlion a real living animal?",
+      "panel4_fact": "The Merlion is a famous statue, and it is a non-living thing.",
+      "panel4_speech": "I'm only made of stone and cement!",
+      "panel4_scene_prompt": "A close-up photo of the Merlion statue's head showing its smooth concrete and stone surface, daylight highlighting the man-made texture.",
+      "panel5_fact": "Non-living things do not need food, water, or air to survive. (or spray water)",
+      "panel5_speech": "I don't eat, drink, or breathe!",
+      "panel5_scene_prompt": "A photo of the full Merlion statue standing still on its platform by the water, no movement, calm and unchanging, bright sunny sky.",
+      "panel6_fact": "As a non-living thing, it never grows bigger!",
+      "panel6_speech": "I've been spouting water for years, but I'm still the same size!",
+      "panel6_scene_prompt": "A photo of the Merlion with sad look, background with Singapore city skyline.",
+      "panel7_closing": "The Merlion looks alive when spraying water, but it's a non-living statue."
+    },
+    "7e4ae694-b2c2-4b60-a345-9acb7bed3e48": {
+      "panel1_question": "Who is climbing up your wall?",
+      "panel1_photo_prompt": "A close-up photo of a small house gecko clinging to a white wall inside a Singapore HDB flat, near a ceiling corner, soft warm indoor lighting at night, realistic detail of its body and tail",
+      "panel2_reveal": "Meet the...",
+      "panel2_title": "HOUSE GECKO!",
+      "panel2_object_prompt": "HOUSE GECKO, less scale on the skin",
+      "panel3_trigger": "Did you know this little wall climber is a reptile?",
+      "panel4_fact": "A gecko is a reptile that has dry, scaly skin.",
+      "panel4_speech": "Touch me and you'll feel my dry, scaly skin!",
+      "panel4_scene_prompt": "Extreme close-up macro photo of a house gecko's back showing the fine dry scales on its skin, detailed texture, natural lighting, sharp focus. similar colour, no leopard gecko type of colour",
+      "panel5_fact": "Geckos have sticky toe pads that help them climb walls and ceilings.",
+      "panel5_speech": "My special toe pads let me walk upside down!",
+      "panel5_scene_prompt": "Close-up macro photo of a gecko's foot and toe pads pressed flat against a smooth glass surface, showing the tiny ridges, clear detailed lighting",
+      "panel6_fact": "Many homes in Singapore have geckos that come out at night to catch insects near lights.",
+      "panel6_speech": "At night, I snack on bugs near your lights!",
+      "panel6_scene_prompt": "A real photo of a gecko on a ceiling near a glowing lightbulb at night in a Singapore home, with a small moth nearby, warm yellow lighting",
+      "panel7_closing": "Now you know — that little gecko on your wall is a helpful reptile that keeps your home free of pesky insects!"
+    }
+  },
+  "createdComics": {
+    "1ea2cc88-19bc-4064-ae79-4b77ca026169": {
+      "topicId": "1ea2cc88-19bc-4064-ae79-4b77ca026169",
+      "images": {
+        "panel1": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/1ea2cc88-19bc-4064-ae79-4b77ca026169/panel1.png",
+        "panel2_object": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/1ea2cc88-19bc-4064-ae79-4b77ca026169/panel2_object_masked.png?t=1782287930460",
+        "panel4_scene": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/1ea2cc88-19bc-4064-ae79-4b77ca026169/panel4_scene.png",
+        "panel5_scene": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/1ea2cc88-19bc-4064-ae79-4b77ca026169/panel5_scene.png",
+        "panel6_scene": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/1ea2cc88-19bc-4064-ae79-4b77ca026169/panel6_scene.png"
+      },
+      "createdAt": "2026-06-22T12:25:14.684Z",
+      "layouts": {
+        "0": {
+          "bgImage": {
+            "x": 47.291666666666664,
+            "y": 50.208333333333336,
+            "scale": 121,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 35.12500000000001,
+            "y": 22.041666666666668,
+            "scale": 65,
+            "blur": 0,
+            "rotation": 0
+          },
+          "bubbleText": {
+            "x": 33.66666666666667,
+            "y": 20.374999999999996,
+            "width": 47,
+            "fontSize": 18,
+            "rotation": 0
+          },
+          "character": {
+            "x": 21.91666666666667,
+            "y": 75.70833333333333,
+            "w": 57,
+            "assetId": "bouncy_wow",
+            "scale": 90
+          },
+          "sceneCircle": false
+        },
+        "1": {
+          "objectImage": {
+            "x": 50.83333333333333,
+            "y": 45.833333333333336,
+            "scale": 76,
+            "blur": 0,
+            "rotation": 11
+          },
+          "p2Reveal": {
+            "x": 51.041666666666664,
+            "y": 10.083333333333334,
+            "width": 88,
+            "fontSize": 24,
+            "rotation": 0
+          },
+          "p2Title": {
+            "x": 48.75,
+            "y": 66.75,
+            "width": 87,
+            "fontSize": 55,
+            "rotation": 0
+          },
+          "character": {
+            "x": 17.833333333333336,
+            "y": 88.50000000000003,
+            "w": 41,
+            "assetId": "bouncy_shocked",
+            "scale": 56
+          },
+          "sceneCircle": false
+        },
+        "2": {
+          "bgImage": {
+            "x": 49.37499999999999,
+            "y": 56.45833333333334,
+            "scale": 120,
+            "blur": 2.5
+          },
+          "bubble": {
+            "x": 48.75,
+            "y": 26.625000000000004,
+            "scale": 86,
+            "blur": 0,
+            "rotation": 0
+          },
+          "bubbleText": {
+            "x": 49.375,
+            "y": 25.166666666666664,
+            "width": 55,
+            "fontSize": 27,
+            "rotation": 0
+          },
+          "character": {
+            "x": 48.95833333333333,
+            "y": 78.58333333333334,
+            "w": 70,
+            "assetId": "bouncy_happy",
+            "scale": 90
+          },
+          "sceneCircle": false
+        },
+        "3": {
+          "sceneImage": {
+            "x": 50.208333333333336,
+            "y": 47.416666666666686,
+            "scale": 97,
+            "blur": 0
+          },
+          "character": {
+            "x": -8,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "assetId": "merry_pointing"
+          },
+          "bubble": {
+            "x": 68.375,
+            "y": 17.083333333333336,
+            "scale": 64,
+            "blur": 0,
+            "rotation": 0
+          },
+          "bubbleText": {
+            "x": 69.83333333333333,
+            "y": 13.958333333333334,
+            "width": 38,
+            "fontSize": 17,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 50,
+            "y": 88,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0
+          },
+          "textboxText": {
+            "x": 48.75,
+            "y": 87.16666666666667,
+            "width": 69,
+            "fontSize": 19,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "4": {
+          "sceneImage": {
+            "x": 43.125,
+            "y": 67.20833333333334,
+            "scale": 113,
+            "blur": 0
+          },
+          "character": {
+            "x": 13.25,
+            "y": 53.791666666666664,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "assetId": ""
+          },
+          "bubble": {
+            "x": 53.166666666666664,
+            "y": 14.791666666666668,
+            "scale": 60,
+            "blur": 0,
+            "rotation": 0
+          },
+          "bubbleText": {
+            "x": 53.583333333333336,
+            "y": 11.874999999999998,
+            "width": 38,
+            "fontSize": 19,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 51.04166666666667,
+            "y": 86.95833333333333,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0
+          },
+          "textboxText": {
+            "x": 49.583333333333336,
+            "y": 85.70833333333334,
+            "width": 77,
+            "fontSize": 18,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "5": {
+          "sceneImage": {
+            "x": 50.416666666666664,
+            "y": 45.541666666666664,
+            "scale": 83,
+            "blur": 0
+          },
+          "character": {
+            "x": -8,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "assetId": "merry_wow"
+          },
+          "bubble": {
+            "x": 30.041666666666664,
+            "y": 17.916666666666668,
+            "scale": 58,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": true
+          },
+          "bubbleText": {
+            "x": 30.458333333333336,
+            "y": 14.374999999999998,
+            "width": 38,
+            "fontSize": 15,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 50.416666666666664,
+            "y": 84.25,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0
+          },
+          "textboxText": {
+            "x": 49.166666666666664,
+            "y": 83.20833333333334,
+            "width": 72,
+            "fontSize": 20,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "6": {
+          "bgImage": {
+            "x": 32.70833333333334,
+            "y": 74.79166666666667,
+            "scale": 256,
+            "blur": 7
+          },
+          "bubble": {
+            "x": 46.87499999999999,
+            "y": 28.25,
+            "scale": 71,
+            "blur": 0,
+            "rotation": 0
+          },
+          "bubbleText": {
+            "x": 47.5,
+            "y": 25.125000000000004,
+            "width": 47,
+            "fontSize": 17,
+            "rotation": 0
+          },
+          "character": {
+            "x": 52.375,
+            "y": 74.29166666666667,
+            "w": 70,
+            "assetId": "bouncy_happy",
+            "scale": 86
+          },
+          "sceneCircle": false
+        }
+      }
+    },
+    "7e4ae694-b2c2-4b60-a345-9acb7bed3e48": {
+      "topicId": "7e4ae694-b2c2-4b60-a345-9acb7bed3e48",
+      "images": {
+        "panel1": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/7e4ae694-b2c2-4b60-a345-9acb7bed3e48/panel1.png",
+        "panel2_object": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/7e4ae694-b2c2-4b60-a345-9acb7bed3e48/panel2_object_masked.png?t=1782292718726",
+        "panel4_scene": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/7e4ae694-b2c2-4b60-a345-9acb7bed3e48/panel4_scene.png",
+        "panel5_scene": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/7e4ae694-b2c2-4b60-a345-9acb7bed3e48/panel5_scene.png",
+        "panel6_scene": "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/7e4ae694-b2c2-4b60-a345-9acb7bed3e48/panel6_scene.png"
+      },
+      "createdAt": "2026-06-24T08:54:35.973Z",
+      "layouts": {
+        "0": {
+          "bgImage": {
+            "x": 59.083333333333336,
+            "y": 53.95833333333334,
+            "scale": 123,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 35,
+            "y": 22,
+            "scale": 65,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 34,
+            "y": 20,
+            "width": 47,
+            "fontSize": 18,
+            "rotation": 0
+          },
+          "character": {
+            "x": 16.375,
+            "y": 76.20833333333333,
+            "scale": 90,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_wow"
+          },
+          "sceneCircle": false
+        },
+        "1": {
+          "objectImage": {
+            "x": 49,
+            "y": 47,
+            "scale": 75,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "p2Reveal": {
+            "x": 50,
+            "y": 9,
+            "width": 88,
+            "fontSize": 24,
+            "rotation": 0
+          },
+          "p2Title": {
+            "x": 52,
+            "y": 73,
+            "width": 88,
+            "fontSize": 48,
+            "rotation": 0
+          },
+          "character": {
+            "x": 12,
+            "y": 89,
+            "scale": 56,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_excited"
+          },
+          "sceneCircle": false
+        },
+        "2": {
+          "bgImage": {
+            "x": 49,
+            "y": 56,
+            "scale": 120,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 49,
+            "y": 27,
+            "scale": 86,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 49.416666666666664,
+            "y": 28.333333333333332,
+            "width": 55,
+            "fontSize": 27,
+            "rotation": 0
+          },
+          "character": {
+            "x": 48.583333333333336,
+            "y": 77.125,
+            "scale": 80,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "bouncy_thinking"
+          },
+          "sceneCircle": false
+        },
+        "3": {
+          "sceneImage": {
+            "x": 49.791666666666664,
+            "y": 46.583333333333336,
+            "scale": 97,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "character": {
+            "x": -8,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_pointing"
+          },
+          "bubble": {
+            "x": 68,
+            "y": 17,
+            "scale": 64,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 70,
+            "y": 14,
+            "width": 38,
+            "fontSize": 17,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 50,
+            "y": 88,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 49,
+            "y": 87,
+            "width": 69,
+            "fontSize": 19,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "4": {
+          "sceneImage": {
+            "x": 43,
+            "y": 67,
+            "scale": 113,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "character": {
+            "x": 76.75,
+            "y": 69.20833333333333,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": ""
+          },
+          "bubble": {
+            "x": 53,
+            "y": 15,
+            "scale": 60,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 54,
+            "y": 13,
+            "width": 38,
+            "fontSize": 16,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 51,
+            "y": 87,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 49,
+            "y": 87,
+            "width": 70,
+            "fontSize": 16,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "5": {
+          "sceneImage": {
+            "x": 56.66666666666667,
+            "y": 66.20833333333333,
+            "scale": 137,
+            "blur": 0,
+            "rotation": -22,
+            "flipX": false
+          },
+          "character": {
+            "x": -8,
+            "y": 54,
+            "scale": 36,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false,
+            "assetId": "merry_wow"
+          },
+          "bubble": {
+            "x": 30,
+            "y": 18,
+            "scale": 58,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": true
+          },
+          "bubbleText": {
+            "x": 30,
+            "y": 15,
+            "width": 38,
+            "fontSize": 14,
+            "rotation": 0
+          },
+          "textbox": {
+            "x": 50,
+            "y": 84,
+            "scale": 92,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "textboxText": {
+            "x": 49,
+            "y": 83,
+            "width": 72,
+            "fontSize": 20,
+            "rotation": 0
+          },
+          "sceneCircle": false
+        },
+        "6": {
+          "bgImage": {
+            "x": 46.916666666666664,
+            "y": 57.91666666666666,
+            "scale": 160,
+            "blur": 5.5,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubble": {
+            "x": 46.45833333333333,
+            "y": 29.5,
+            "scale": 80,
+            "blur": 0,
+            "rotation": 0,
+            "flipX": false
+          },
+          "bubbleText": {
+            "x": 48.29166666666667,
+            "y": 26.5,
+            "width": 57,
+            "fontSize": 18,
+            "rotation": 0
+          },
+          "character": {
+            "x": 63.83333333333333,
+            "y": 79.29166666666667,
+            "scale": 109,
+            "blur": 0,
+            "rotation": -22,
+            "flipX": false,
+            "assetId": "bouncy_excited"
+          },
+          "sceneCircle": false
+        }
+      },
+      "exports": [
+        "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/7e4ae694-b2c2-4b60-a345-9acb7bed3e48/export_1782350880426.png",
+        "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/7e4ae694-b2c2-4b60-a345-9acb7bed3e48/export_1782352090024.png",
+        "/generated/045599a2-763f-4d6b-a067-9f4f51d41733/7e4ae694-b2c2-4b60-a345-9acb7bed3e48/export_1782352432337.png"
+      ]
+    }
+  }
+}

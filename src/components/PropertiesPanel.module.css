@@ -1,0 +1,175 @@
+.panel {
+  width: var(--props-w);
+  background: var(--bg-panel);
+  border-left: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.header {
+  padding: 10px 12px;
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.empty {
+  color: var(--text-muted);
+  font-size: 12px;
+  line-height: 1.5;
+  padding: 8px 0;
+}
+
+.hint {
+  font-size: 11px;
+  color: var(--text-muted);
+  line-height: 1.5;
+  font-style: italic;
+}
+
+.section {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.sectionTitle {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.charBadge {
+  font-size: 11px;
+  font-weight: 600;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 20px;
+  display: inline-block;
+  text-transform: capitalize;
+  margin-bottom: 2px;
+}
+
+.fieldRow {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 26px;
+}
+
+.fieldLabel {
+  font-size: 11px;
+  color: var(--text-muted);
+  width: 40px;
+  flex-shrink: 0;
+}
+
+.fieldControl { flex: 1; min-width: 0; }
+
+.numInput {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  color: var(--text-primary);
+  padding: 3px 6px;
+  font-size: 12px;
+  width: 100%;
+  transition: border-color 0.15s;
+}
+.numInput:focus { border-color: var(--accent); }
+
+.textInput {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  color: var(--text-primary);
+  padding: 4px 6px;
+  font-size: 12px;
+  width: 100%;
+  transition: border-color 0.15s;
+}
+.textInput:focus { border-color: var(--accent); }
+
+.textarea {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  color: var(--text-primary);
+  padding: 5px 6px;
+  font-size: 12px;
+  width: 100%;
+  resize: vertical;
+  transition: border-color 0.15s;
+}
+.textarea:focus { border-color: var(--accent); }
+
+.select {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  color: var(--text-primary);
+  padding: 4px 6px;
+  font-size: 12px;
+  width: 100%;
+  transition: border-color 0.15s;
+}
+.select:focus { border-color: var(--accent); }
+
+.xyGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
+}
+
+.toggleBtn {
+  width: 100%;
+  padding: 4px 8px;
+  background: #fff;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  border-radius: 5px;
+  font-size: 12px;
+  transition: all 0.15s;
+}
+.toggleBtn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.btnDelete {
+  margin-top: 4px;
+  padding: 6px;
+  background: transparent;
+  border: 1px solid #fca5a5;
+  color: #ef4444;
+  border-radius: 6px;
+  font-size: 12px;
+  width: 100%;
+  transition: all 0.15s;
+}
+.btnDelete:hover {
+  background: #fee2e2;
+  border-color: #ef4444;
+}
